@@ -1,5 +1,9 @@
 # VIRTUAL PIGGY BANK
 
+Introduction
+ - A GUI program that motivates user to reach their saving goals with
+appealing avatar customization. Written in Python and Tkinter.
+
 Problem Statement
 - Poor money management of youths
 - Clueless on how to save
